@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o Vitor Tavares</h1>
 
-<!--
-**Tavaressan/Tavaressan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong>, atualmente no 3º semestre, focado em desenvolvimento <strong>Back-End</strong>.<br/>
+  Estudando <strong>C#</strong> e o ecossistema <strong>.NET</strong> para construir aplicações robustas e escaláveis.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Em desenvolvimento
+
+Atualmente, estou colaborando com um grupo da faculdade na criação de um **sistema de gestão para uma empresa de energia solar**. O projeto envolve desde a modelagem do banco de dados até a implementação de funcionalidades de negócio.
+
+---
+
+## 🛠 Projetos
+
+- 🔗 <strong><a href="https://fluxora-web-flax.vercel.app/" target="_blank">Fluxora - Site para empresa de nutrição</a></strong>  
+  Participei do desenvolvimento deste site institucional como parte de um projeto em grupo da faculdade. O repositório será disponibilizado em breve aqui no GitHub.
+
+---
+
+## 🧠 Tecnologias e habilidades
+
+- <strong>Linguagens:</strong> C#, JavaScript, HTML, CSS, Python, C  
+- <strong>Conceitos:</strong> Programação Orientada a Objetos, Estruturas de Dados, Bancos de Dados, APIs REST  
+- <strong>Ferramentas:</strong> Git, GitHub, Visual Studio, VS Code  
+- <strong>Estudando atualmente:</strong> .NET, boas práticas de Back-End
+
+---
+
+## 🌍 Idiomas
+
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — Fluente  
+- 🇫🇷 Francês — Avançado  
+- 🇪🇸 Espanhol — Intermediário  
+- 🇯🇵 Japonês — Intermediário
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/vitor-tavares-500967236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+<p align="center">Obrigado por visitar meu perfil! 😊</p>
+
