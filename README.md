@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong>, atualmente no 3º semestre, focado em desenvolvimento <strong>Back-End</strong>.<br/>
-  Estudando <strong>C#</strong> e o ecossistema <strong>.NET</strong> para construir aplicações robustas e escaláveis.
+  Estudando <strong>Java</strong> e o framework <strong>Spring</strong> para construir aplicações robustas e escaláveis.
 </p>
 
 ---
@@ -22,10 +22,10 @@ Atualmente, estou colaborando com um grupo da faculdade na criação de um **sis
 
 ## 🧠 Tecnologias e habilidades
 
-- <strong>Linguagens:</strong> C#, JavaScript, HTML, CSS, Python, C  
-- <strong>Conceitos:</strong> Programação Orientada a Objetos, Estruturas de Dados, Bancos de Dados, APIs REST  
-- <strong>Ferramentas:</strong> Git, GitHub, Visual Studio, VS Code  
-- <strong>Estudando atualmente:</strong> .NET, boas práticas de Back-End
+- <strong>Linguagens:</strong> Java, C#, JavaScript, HTML, CSS, Python, C  
+- <strong>Conceitos:</strong> Programação Orientada a Objetos, Estruturas de Dados, Bancos de Dados, APIs REST, Programação Orientada a Funcionalidade  
+- <strong>Ferramentas:</strong> Git, GitHub, Intellij, Visual Studio, VS Code, Docker, Google Cloud
+- <strong>Estudando atualmente:</strong> Spring, .NET, boas práticas de Back-End
 
 ---
 
