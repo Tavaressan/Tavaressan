@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Vitor Tavares</h1>
 
 <p align="center">
-  Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong>, atualmente no 3º semestre, focado em desenvolvimento <strong>Back-End</strong>.<br/>
+  Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong>, atualmente no 4º semestre, focado em desenvolvimento <strong>Back-End</strong>.<br/>
   Estudando <strong>Java</strong> e o framework <strong>Spring</strong> para construir aplicações robustas e escaláveis.
 </p>
 
