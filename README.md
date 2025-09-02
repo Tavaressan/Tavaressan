@@ -1,45 +1,68 @@
-<h1 align="center">👋 Olá! Eu sou o Vitor Tavares</h1>
+<h1 align="center">👋 Hi! I'm Vitor Tavares</h1>
 
 <p align="center">
-  Estudante de <strong>Desenvolvimento de Software Multiplataforma</strong>, atualmente no 4º semestre, focado em desenvolvimento <strong>Back-End</strong>.<br/>
-  Estudando <strong>Java</strong> e o framework <strong>Spring</strong> para construir aplicações robustas e escaláveis.
+  <strong>Back-End Developer | Java & Spring | Multilingual (EN, FR, ES, JP)</strong><br/>
+  Student of <strong>Multiplatform Software Development</strong> (4th semester), passionate about building scalable and well-structured applications.
 </p>
 
 ---
 
-## 🚀 Em desenvolvimento
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tavaressan&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavaressan&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
 
-Atualmente, estou colaborando com um grupo da faculdade na criação de um **sistema de gestão para uma empresa de energia solar**. O projeto envolve desde a modelagem do banco de dados até a implementação de funcionalidades de negócio.
+## 🚀 In Development
 
----
-
-## 🛠 Projetos
-
-- 🔗 <strong><a href="https://fluxora-web-flax.vercel.app/" target="_blank">Fluxora - Site para empresa de nutrição</a></strong>  
-  Participei do desenvolvimento deste site institucional como parte de um projeto em grupo da faculdade. O repositório será disponibilizado em breve aqui no GitHub.
-
----
-
-## 🧠 Tecnologias e habilidades
-
-- <strong>Linguagens:</strong> Java, C#, JavaScript, HTML, CSS, Python, C  
-- <strong>Conceitos:</strong> Programação Orientada a Objetos, Estruturas de Dados, Bancos de Dados, APIs REST, Programação Orientada a Funcionalidade  
-- <strong>Ferramentas:</strong> Git, GitHub, Intellij, Visual Studio, VS Code, Docker, Google Cloud
-- <strong>Estudando atualmente:</strong> Spring, .NET, boas práticas de Back-End
+Currently collaborating with classmates on building a **management system for a beauty company**, designed to replace manual spreadsheets with an efficient, centralized solution for client and service management.  
+This project involves database modeling, back-end implementation, and user-focused functionality.
 
 ---
 
-## 🌍 Idiomas
+## 🛠 Projects
 
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Fluente  
-- 🇫🇷 Francês — Avançado  
-- 🇪🇸 Espanhol — Intermediário  
-- 🇯🇵 Japonês — Intermediário
+- 🔗 <strong><a href="https://fluxora-web-flax.vercel.app/" target="_blank">Fluxora - Website for a Nutrition Company</a></strong>  
+  I contributed to the development of this institutional website as part of a college group project.  
+  The repository will be made available here on GitHub soon.
 
 ---
 
-## 📫 Contato
+## 🧠 Technologies & Skills
+
+- **Core Skills:** Java, Spring, C#, REST APIs, Git, Docker  
+- **Additional Languages:** JavaScript, HTML, CSS, Python, C  
+- **Concepts:** Object-Oriented Programming, Data Structures, Databases, APIs, Feature-Oriented Programming  
+- **Tools:** GitHub, IntelliJ, Visual Studio, VS Code, Google Cloud  
+- **Currently Exploring:** .NET, Cloud solutions, Back-End best practices
+
+#
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,java,spring,cs,html,css,js,ts,nodejs,react,aws,git,github,postgres&theme=dark" />
+
+---
+
+## 🎯 Career Goals
+
+Back-End Developer focused on delivering scalable and high-performance systems, with particular interest in the financial sector and enterprise-level applications.
+
+---
+
+## 🌍 Languages
+
+- 🇧🇷 Portuguese — Native  
+- 🇺🇸 English — Fluent  
+- 🇫🇷 French — Advanced  
+- 🇪🇸 Spanish — Intermediate  
+- 🇯🇵 Japanese — Intermediate
+
+*Multilingual professional with strong communication skills and international mindset.*
+
+---
+
+## 📫 Contact
 
 <p>
   <a href="https://www.linkedin.com/in/vitor-tavares-500967236/" target="_blank">
@@ -49,5 +72,5 @@ Atualmente, estou colaborando com um grupo da faculdade na criação de um **sis
 
 ---
 
-<p align="center">Obrigado por visitar meu perfil! 😊</p>
+<p align="center">Thanks for visiting my profile! 😊</p>
 
